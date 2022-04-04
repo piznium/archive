@@ -14,4 +14,4 @@ Archives, archives. This github repository archives **all** versions of Pizn, ex
 In each level 1 directory, there are more folders with names of a version (for example, `0.1.0`).
 
 **Level 3**<br />
-In each level 2 directory, there are more folders with names of a "subversion" (for example, `beta1`).
+In each level 2 directory, there are more folders with names of a "subversion" (for example, `beta1`). In the level 3 folder is just the code itself.
