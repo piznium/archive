@@ -171,7 +171,7 @@ bool includes(string str,string substr) {
 
 // Solve function (not coatings)
 void solveFunction(string module,string command,vector<string> params) {
-  
+  // This just calls the other files which are the actual ones that do the function stuff
 }
 
 // Solve basic arithmetics
